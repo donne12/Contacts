@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474328572744",
+    "firebase_url": "https://contacts-firebase-61590.firebaseio.com",
+    "project_id": "contacts-firebase-61590",
+    "storage_bucket": "contacts-firebase-61590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474328572744:android:bf3569f5132b94140d897d",
+        "android_client_info": {
+          "package_name": "com.example.contacts_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474328572744-c5t5nj9q5o07eg6glc2554hdht7fejfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS8t-CHhSh1AiOOezQTxdjYwDu-DIxT3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474328572744-c5t5nj9q5o07eg6glc2554hdht7fejfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
